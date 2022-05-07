@@ -22,6 +22,6 @@
 <a href="https://github.com/zodiacddos"><img alt="zodiacddos Graph"
     src="https://activity-graph.herokuapp.com/graph?username=zodiacddos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zodiacddos)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zodiacddos&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 </div>
