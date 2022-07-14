@@ -1,4 +1,22 @@
-## Welcome !!
+<h2 align="center">
+I'm a Newbie Developer 💻, and Designer 🎨!
+</h2> 
+
+Raising <Dev> with a simple goal of making new things worth of discovery.
+
+ <h2>🥇 My Github Status</h2>
+
+  [![zodiacddos GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zodiacddos&theme=dracula&margin-w=15&amargin-h=15&column=7)](https://github.com/zodiacddos)
+  
+[![zodiacddos GitHub Stats](https://github-readme-stats.vercel.app/api?username=zodiacddos&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/zodiacddos)
+  
+[![zodiacddos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zodiacddos&layout=compact&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/zodiacddos)
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zodiacddos&bg_color=000&icon_color=FFF&border_radius=10)](https://github.com/zodiacddos?tab=repositories)
+   -->
+  
+</div>
+
  <div>
   <a href="https://github.com/zodiacddos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zodiacddos&show_icons=true&theme=highcontrast"/>
