@@ -17,32 +17,6 @@ Raising <Dev> with a simple goal of making new things worth of discovery.
   
 </div>
 
- <div>
-  <a href="https://github.com/zodiacddos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zodiacddos&show_icons=true&theme=highcontrast"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodiacddos&theme=highcontrast"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="zodiacddos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="zodiacddos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="zodiacddos-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="zodiacddos-yoda" src="https://c.tenor.com/Bpbu2-YNL6cAAAAM/hacker-pupper-dog.gif">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "zodiacddos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-<a href="https://github.com/zodiacddos"><img alt="zodiacddos Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=zodiacddos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zodiacddos&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
-</div>
 
  ## Technologies and Tools I use:
 
@@ -65,6 +39,15 @@ Raising <Dev> with a simple goal of making new things worth of discovery.
 
 ### 🤝 Connect with me:
 
-[![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33)](https://discord.gg/AMpYvjX86H)
-</br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+ <div> 
+ 
+<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href = "zodiacddos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+<a href="https://github.com/zodiacddos"><img alt="zodiacddos Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=zodiacddos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zodiacddos&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
+</div>
