@@ -1,5 +1,5 @@
 <h2 align="center">
-I'm a Newbie Developer 💻, and Designer 🎨!
+I'm a Developer 💻, and Designer 🎨!
 </h2> 
 
 <h2 align="center">
